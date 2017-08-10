@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+	.header { font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica,              Arial, "sans-serif";
+	          color:brown;
+		      width:980px;
+              border:10px;
+              padding-left:25px;
+		      padding-right:25px;
+              margin:0px;
+			  
+		      }
+	
+	.nav { text-align: center;
+	       font-size: 20px;
+		   word-spacing:10px;
+		   font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	        }
+	a {text-decoration: none;
+	   
+	   }
+	
+
+	a:link {color: black; }
+    a:visited {color:brown;}
+    a:hover {color:burlywood;}
+    a:active {color: blue;}
+	
+		.footer {position: fixed;
+		     width:960px;
+	         top:700px;
+		     left:300px;
+			 text-align: center;}
+   
+    
+	
+	.head {text-indent: 50px;}
+	
+	.reviews {margin-left: 20px;
+	          padding:10px;
+	          font-size:20px;}
+	
+
